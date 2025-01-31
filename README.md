@@ -1123,12 +1123,12 @@ Kumpulan berbagai GIF, ikon animasi, emoji, banner, dan lainnya yang bisa diguna
 ---
 
 ## 🔖 Lisensi
-Hak cipta &copy; 2024 [Andino Ferdiansah](https://github.com/your-andinoferdi). 
+Hak cipta &copy; 2024 [Andino Ferdiansah](https://github.com/andinoferdi). 
 Kode ini dilisensikan di bawah **MIT License**.
 
 ---
 
 ##  Terima Kasih!
-Dibuat oleh [Andino Ferdiansah](https://github.com/your-andinoferdi).
+Dibuat oleh [Andino Ferdiansah](https://github.com/andinoferdi).
 
 Jika bermanfaat, jangan lupa beri ⭐ di repo ini! 🚀
