@@ -171,32 +171,9 @@ Kumpulan berbagai GIF, ikon animasi, emoji, banner, dan lainnya yang bisa diguna
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
   <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-</div>
-  </div>
-
-
-<br><br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Extra Value Added --------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## Extra Value Added [🔝](#--gifs-for-readme--)
-
-- Let's Catch
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-  <br><br>
-
-- Pacman
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  <br><br>
-
-- Cool Fire Animation
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
-  <br><br>
-
-- Parrots
-<div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -220,59 +197,18 @@ Kumpulan berbagai GIF, ikon animasi, emoji, banner, dan lainnya yang bisa diguna
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
-<br><br>
-
-- Code the cool stuff
   <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
-  <br><br>
-
-- Skills
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <br><br>
-
-- Unproductive all day
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
-  <br><br>
-
-- There are so many thoughts going through my brain
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="400">
-  <br><br>
-
-- Haven't slept for solid 83 hours, but yeah I'm good
   <img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" width="400">
-  <br><br>
-
-- code with peace
   <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
-  <br><br>
-
-- Lets code
   <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-  <br><br>
-
-- Work life balance
   <img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="400">
-  <br><br>
-
-- coding on beach
   <img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="400">
-  <br><br>
-
-- My Email
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="400">
-  <br><br>
-
-- Consuming Data & File
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5384ba2-bf78-4be4-94be-4559c1827245" width="400">
-  <br><br>
-
-- Fading Line
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  <br><br>
-
-- Helpful GIFs
-<div align="">
    <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp; 
    <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
    <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="75">&nbsp; 
@@ -301,19 +237,8 @@ Kumpulan berbagai GIF, ikon animasi, emoji, banner, dan lainnya yang bisa diguna
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/94cc4424-9251-42ae-8782-92465d0a0043" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp;
-</div>
-<br><br>
-
-- Ying Yang to Cats
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
-  <br><br>
-
-- Cool Haha
   <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="200">
-  <br><br>
-
-- Theme Style Animated GIFs
-<div align="">
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7f4fb7d4-5787-4f72-9a4d-9fb16d3cab39" width="200">
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bbda02a2-36d3-48ef-a3a8-41b0d17653d5" width="200">
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="200">
@@ -324,300 +249,84 @@ Kumpulan berbagai GIF, ikon animasi, emoji, banner, dan lainnya yang bisa diguna
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7711afef-11f4-4a9d-91b1-3ea9e51ffe05" width="200">
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" width="200">
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/53e7ca86-a31d-45ad-add3-a6c34d0ea411" width="200">
-</div>
-
-- Gradient Line
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-  <br><br>
-
-- Cat & Mouse
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
-  <br><br>
-
-- Dinosaur Game
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
-  <br><br>
-
-- Keep Moving Forward
   <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
-  <br><br>
-
-- Maxtocat working hard
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/366d67af-a5ad-4c0a-bf14-1bebfed20a3a" width="400">
-  <br><br>
-
-- Chill Floating
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400">
-  <br><br>
-
-- Friday
   <img src="https://user-images.githubusercontent.com/74038190/230733742-d1aa194d-862c-49a5-af76-e610921d83e7.gif" width="400">
-  <br><br>
-
-- Pixel GiFs
-<div>
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">  
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
-</div>
-<br><br>
-
-- Hello World in Multiple Languages
   <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
-  <br><br>
-
-- Coffee while working
   <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
-  <br><br>
-
-- Ultra Fast typing Cat
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-  <br><br>
-
-- Everything's a copy of a copy of a copy
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" width="400">
-  <br><br>
-
-- Junior Developer After Serious Mistake
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400">
-  <br><br>
-
-- Conflict at every PR
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/504a2680-59a6-420e-b297-5ae89d68e377" width="400">
-  <br><br>
-
-- How programmers feel when code doesn't works
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400">
-  <br><br>
-
-- Deep Focus
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="400">
-  <br><br>
-
-- Sleepy Head
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe8225a5-f084-45cb-9a28-a0c2c8634872" width="400">
-  <br><br>
-
-- I am bored
   <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300">
-  <br><br>
-
-- Yo welcome
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c552be39-25aa-4f5a-8421-54aa11f7131f" width="300">
-  <br><br>
-
-- Cool Cats
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="300">
-  <br><br>
-
-- Penguin with suitcase
   <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="200">
-  <br><br>
-
-- Hehe! I am working
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
-  <br><br>
-
-- Tappity
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0f974935-dad2-4dc1-8146-5159dbb6d3e8" width="300">
-  <br><br>
-
-- Roll & Work
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6c1e9fe7-c8d3-4db6-a7cb-092170a81f66" width="300">
-  <br><br>
-
-- I have no idea what I'm doing
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4" width="300">
-  <br><br>
-
-- Laptop Punching user
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" width="300">
-  <br><br>
-
-- Mind
   <img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="300">
-  <br><br>
-
-- Infinite Loop
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="300">
-  <br><br>
-
-- Infinite Mobile Loop
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2f72c61a-5932-491f-b3ba-d3b3470c00cb" width="300">
-  <br><br>
-
-- So much work
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/45ded936-e675-47cd-8457-1f50b4e16efc" width="200">
-  <br><br>
-
-- Sketch Working Hard
   <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300">
-  <br><br>
-
-- Animated Fun
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/97626055-a2f8-453b-9d67-c749f99ff0b9" width="300">
-  <br><br>
-
-- Day Night
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="300">
-  <br><br>
-
-- Eat Sleep Code Repeat
   <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300">
-  <br><br>
-
-- Error 404
   <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
-  <br><br>
-
-- Code scroll
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="300">
-  <br><br>
-
-- Making something delicious
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/36aaf561-01f0-4474-b33b-f31d2ec62ea4" width="300">
-  <br><br>
-
-- 0-1 Binary Code
   <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="300">
-  <br><br>
-
-- Very close octocats
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="300">
-  <br><br>
-
-- Star passing
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-  <br><br>
-
-- Tension walk
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="300">
-  <br><br>
-
-- Flashback
   <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="200">
-  <br><br>
-
-- Hello there
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="400">
-  <br><br>
-
-- Smiley Bomb
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/315afd9b-24e5-4256-ba38-8da3616f7f5e" width="400">
-  <br><br>
-
-- 9 to 5 Job
   <img src="https://user-images.githubusercontent.com/74038190/214375883-4dca62e9-afbe-4b40-8aec-02ca35d614df.gif" width="200">
-  <br><br>
-
-- It's Not a bug! It's a Feature!!
   <img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="300">
-  <br><br>
-
-- Fixing a bug in production
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82" width="300">
-  <br><br>
-
-- Finding big size bugs
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08edbce8-99d3-4ad2-9d04-7e0cd1f02eac" width="300">
-  <br><br>
-
-- Hello Wave
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="300">
-  <br><br>
-
-- Skating
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e1909120-a670-4b49-91b2-e95a01d0c7b8" width="300">
-  <br><br>
-
-- Work pressure!!
   <img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" width="300">
-  <br><br>
-
-- Handshake
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
-  <br><br>
-
-- Wave
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200">
-  <br><br>
-
-- Mission Bug Termination
   <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="200">
-  <br><br>
-
-- Hard Life
   <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="200">
-  <br><br>
-
-- I wonder
   <img src="https://user-images.githubusercontent.com/74038190/212896001-c2105e17-255f-4816-b348-8cfddfe2a915.gif" width="300">
-  <br><br>
-
-- Pro Level Debugging
   <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200">
-  <br><br>
-
-- How my code works?
   <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300">
-  <br><br>
-
-- Why my code works?
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/330af13b-6435-4505-8a02-1869b677f9eb" width="300">
-  <br><br>
-
-- Barcode Generator
   <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="200">
-  <br><br>
-
-- Everytime I do a git pull, and there is a conflict
   <img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="200">
-  <br><br>
-
-- Peace with oneself
   <img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" width="200">
-  <br><br>
-
-- Monday arrives again!!
   <img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="200">
-  <br><br>
-
-- Robot Arm Boogies Hard: Getting Jiggy with it!
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-  <br><br>
-
-- Programming
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-  <br><br>
-
-- I'm Coding
   <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="300">
-  <br><br>
-
-- Creepy eyes
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/65d3d964-e2f3-4939-b4a7-559e0380197f" width="300">
-  <br><br>
-
-- GitHub is Good
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
-  <br><br>
-
-- GitHub Star
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="300">
-  <br><br>
-
-- Dangerous Root Deletion
   <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="300">
-  <br><br>
-
-- I skip documentation
   <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300">
-  <br><br>
-
-<br><br>
+</div>
+  </div>
 
 ## Awesome Banners [🔝](#--gifs-for-readme--)
 
