@@ -1,9 +1,3 @@
-# GIFs & Assets for Readme
-
-<div align="center">
-    <h2>GIFs & Assets for Readme</h2>
-</div>
-
 ## 🎨 Overview
 Kumpulan berbagai GIF, ikon animasi, emoji, banner, dan lainnya yang bisa digunakan untuk mempercantik README.md atau dokumentasi GitHub.
 
