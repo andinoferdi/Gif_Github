@@ -91,6 +91,7 @@ Kumpulan berbagai GIF, ikon animasi, emoji, banner, dan lainnya yang bisa diguna
 ## 🎬 Banner Animasi
 
 <div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="600" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
@@ -171,6 +172,8 @@ Kumpulan berbagai GIF, ikon animasi, emoji, banner, dan lainnya yang bisa diguna
   <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
+  </div>
+
 
 <br><br>
 
